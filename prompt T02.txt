@@ -1,0 +1,3 @@
+gemini
+1. bagaimana membuat sebuah program dengan meminta inputan jumlahdari nilainya ini blum tentu
+2. coba analisis data ini, pola apa yng dibentuk daari gambar

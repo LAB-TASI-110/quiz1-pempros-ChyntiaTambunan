@@ -1,0 +1,5 @@
+gemini:
+1. berikan aku solusi dimana sebuah program akan meminta jenis makanan dan jumlah dengan makanannya itu harus menggunakan array
+2. kalau pakai loopingan
+3. coba buat program dimana harga suatu makanan sudah di tentukan. lalu program meminta makanan makanan yang akan di beli beserta porsinya lalu program akan mnghitung jumlah harga dan hasil harga keseluruhan setelaah mendapatkan diskon
+4. coba dia minta kat akata bukan nomor menunya
