@@ -52,4 +52,5 @@ int main() {
     printf("Semangat kuliahnya, Ucok & Butet!\n");
 
     return 0;
+    
 }
